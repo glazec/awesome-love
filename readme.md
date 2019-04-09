@@ -5,7 +5,7 @@ This repo will about love, including programs about love, website about love, in
 
 ## Table of Contents
 
-- Applications
+- [Applications](#Applications)
 - Programmes
 - Stories
 - Websites
