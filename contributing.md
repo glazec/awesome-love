@@ -16,7 +16,7 @@
 - For command-line examples, wrap your commands in a `bash` code block.
 - At the end of your section, add a `Read more about...` link. This should directly link to [Git's](http://git-scm.com/docs), [GitHub's](https://help.github.com), or the relevant documentation.
 - Make sure your grammar is correct and there is no typo.
-- If your contribution is a translation, add a (relative) link to the README above the [Table of Contents](README.md#table-of-contents).
+- If your contribution is a translation, add a (relative) link to the README above the [Table of Contents](readme.md#table-of-contents).
 
 ## Add ideas or love story
 1. Open an issue.
