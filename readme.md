@@ -7,7 +7,7 @@ This repo will about love, including programs about love, website about love, in
 
 - [Applications](#Applications)
 - [Programmes](#Programmes)
-- [Stories](#Stroies)
+- [Stories](#Stories)
 - [Websites](#Websites)
 
 ### Applications
