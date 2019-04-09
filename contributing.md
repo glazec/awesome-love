@@ -1,4 +1,4 @@
-# Contributing Guidelines [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+# Contributing Guidelines [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](contributing-cn.md)
 
 1. Fork the repository.
 2. Add your section - make sure you follow the styling guide below.
