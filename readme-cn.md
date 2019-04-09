@@ -10,6 +10,6 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 
 ## 开源许可
 
-[![知识共享协议](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![知识共享协议](http://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 本项目采用[知识共享协议4.0-署名-非商业性](http://creativecommons.org/licenses/by-nc/4.0/).
