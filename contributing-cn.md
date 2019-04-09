@@ -15,7 +15,7 @@
 - 如果是命令行项目，请将命令包含在代码块中，如`bash`。
 - 在你所写部分的最后，添加`更多。。。`链接。这个链接应该指向[Git's](http://git-scm.com/docs), [GitHub's](https://help.github.com)，或相关的文档。
 - 请确保语法正确，没有错别字。
-- 如果你的贡献为翻译，请相对链接放在[Table of Contents](readme-cn.md#目录)之前。
+- 如果你的贡献为翻译，请相对链接放在[目录](readme-cn.md#目录)之前。
 
 ## 添加恋爱小想法和小故事
 1. 打开一个问题（open an issue）。
