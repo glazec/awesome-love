@@ -1,12 +1,13 @@
 # Contributing Guidelines [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](contributing-cn.md)
 
+## Add Projects
 1. Fork the repository.
 2. Add your section - make sure you follow the styling guide below.
 3. Commit changes.
 4. Push your commit.
 5. Create a Pull Request.
 
-## Styling
+### Styling
 
 - Use `###` headers for your sections.
 - Also use `###` for categories (these should group together relevant sections) and `####` for subcategories.
@@ -16,3 +17,8 @@
 - At the end of your section, add a `Read more about...` link. This should directly link to [Git's](http://git-scm.com/docs), [GitHub's](https://help.github.com), or the relevant documentation.
 - Make sure your grammar is correct and there is no typo.
 - If your contribution is a translation, add a (relative) link to the README above the [Table of Contents](README.md#table-of-contents).
+
+## Add ideas or love story
+- Open an issue.
+- The title should be ideas or love story.
+- Make sure your grammar is correct and there is no typo.
