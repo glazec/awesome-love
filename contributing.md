@@ -19,6 +19,6 @@
 - If your contribution is a translation, add a (relative) link to the README above the [Table of Contents](README.md#table-of-contents).
 
 ## Add ideas or love story
-- Open an issue.
-- The title should be ideas or love story.
-- Make sure your grammar is correct and there is no typo.
+1. Open an issue.
+2. The title should be ideas or love story.
+3. Make sure your grammar is correct and there is no typo.
