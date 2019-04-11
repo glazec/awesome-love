@@ -8,12 +8,24 @@ Github 上有各种各样的 Awesome，也有各种各样自称为恋爱神器�
 
 - [网站](#网站)
   - 展示
+    - [IOU](#IOU--)
     - [Loveyue](#Loveyue--)
 - [程序](#程序)
   - [Love-You](#Love-You--)
   - [Node Mail](#node-Mail--)
 
 ## 网站
+
+### IOU ![stars](https://img.shields.io/github/stars/jeasonstudio/iou.svg) ![last commit](https://img.shields.io/github/last-commit/jeasonstudio/iou.svg)
+通过模拟打字机的输入，采用几种编程语言，来展示对女朋友的爱，并记录时间。
+
+![iou.gif](media/iou.gif)
+
+或者手机扫描下面二维码预览:
+
+![iou-qrcode](media/iou.png)
+
+[更多...](https://github.com/jeasonstudio/iou)
 
 ### Loveyue ![stars](https://img.shields.io/github/stars/wuxia2001/loveyue.svg) ![last commit](https://img.shields.io/github/last-commit/wuxia2001/loveyue.svg)
 
@@ -22,6 +34,7 @@ Github 上有各种各样的 Awesome，也有各种各样自称为恋爱神器�
 ![示例](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love_2/master/images/wuxia2001.png)
 
 [更多。。。](https://github.com/wuxia2001/loveyue)
+
 
 ## 程序
 
@@ -86,5 +99,5 @@ console.log(loveYou.i18n);
 ## 开源许可
 
 [![知识共享协议](http://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 本项目采用[知识共享协议 4.0-署名-非商业性](http://creativecommons.org/licenses/by-nc/4.0/).
+
