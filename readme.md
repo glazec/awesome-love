@@ -18,7 +18,8 @@ This repo will about love, including programs about love, website about love, in
 
 This post teaches and inspires those who are interested creating a website for their beloved person. 
 
-![example](http://loveyue1.sinaapp.com/love/index.html)
+![example](http://github.com/Yuandong-Fei/awesome-love_2/images/wuxia2001)
+
 [Read more about...](https://github.com/wuxia2001/loveyue)
 
 ### Node Mail ![stars](https://img.shields.io/github/stars/Vincedream/NodeMail.svg) ![last commit](https://img.shields.io/github/last-commit/Vincedream/NodeMail.svg)
