@@ -20,14 +20,14 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 
 ![示例](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love_2/master/images/wuxia2001.png)
 
-[更多请戳-->](https://github.com/wuxia2001/loveyue)
+[更多请戳](https://github.com/wuxia2001/loveyue)
 
 ### Node Mail ![stars](https://img.shields.io/github/stars/Vincedream/NodeMail.svg) ![last commit](https://img.shields.io/github/last-commit/Vincedream/NodeMail.svg)
 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件。在这封邮件里，有着天气预报，在一起多少天了，还有来自ONE的每日订阅。你还可以对代码进行扩展，为心爱的她用心地定制一份信息流。
 
 ![示例](https://camo.githubusercontent.com/eb44a62a47273be4b9aef2e6bdb54c4d446ff680/687474703a2f2f626c6f677069632e76696e63652e78696e2f32433937313636332d344330322d344344442d384531332d3143373142383137304542342e706e67)
 
-[更多请戳-->](https://github.com/Vincedream/NodeMail)
+[更多请戳](https://github.com/Vincedream/NodeMail)
 
 ### Love-You ![stars](https://img.shields.io/github/stars/IonicaBizau/love-you.svg) ![last_comit](https://img.shields.io/github/last-commit/IonicaBizau/love-you.svg)
 多种语言的我爱你。浪漫不止一种方法～
@@ -75,7 +75,7 @@ console.log(loveYou.i18n);
 //   english: 'I love you' }
 ```
 
-[更多请戳-->](https://github.com/IonicaBizau/love-you)
+[更多请戳](https://github.com/IonicaBizau/love-you)
 
 ## 开源许可
 
