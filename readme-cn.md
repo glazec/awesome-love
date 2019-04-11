@@ -7,11 +7,20 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 
 - [网站](#网站)
 - [程序](#程序)
+  - [loveyue](#loveyue--)
   - [Node Mail](#node-Mail--)
 
 ## 网站
 
 ## 程序
+### loveyue ![stars](https://img.shields.io/github/stars/wuxia2001/loveyue.svg) ![last commit](https://img.shields.io/github/last-commit/wuxia2001/loveyue.svg)
+
+这是程序员表白系列中的网站表白，旨在让任何人都能使用并创建自己的表白网站给心爱的人看。 此波共有8个表白网站，可以任意修改和使用，源码已上传，演示网址如下。
+
+![example](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love_2/master/images/wuxia2001.png)
+
+[Read more about...](https://github.com/wuxia2001/loveyue)
+
 ### Node Mail ![stars](https://img.shields.io/github/stars/Vincedream/NodeMail.svg) ![last commit](https://img.shields.io/github/last-commit/Vincedream/NodeMail.svg)
 用Node写一个爬虫脚本每天定时给女朋友发一封暖心邮件。在这封邮件里，有着天气预报，在一起多少天了，还有来自ONE的每日订阅。你还可以对代码进行扩展，为心爱的她用心地定制一份信息流。
 
