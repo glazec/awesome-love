@@ -10,6 +10,7 @@
 ### 格式规范
 - 使用 `###` 作为你的标题大小。
 <!-- - 使用 `###` 作为类别大小， `####` 作为子类大小。 -->
+- 将标题名字大写。
 - 在标题后，添加`![stars](https://img.shields.io/github/stars/Vincedream/NodeMail.svg) ![last update](https://img.shields.io/github/last-commit/Vincedream/NodeMail.svg)` 来展示项目的最后更新时间以及星数（Star）。
 - 为你添加的内容在目录处添加索引(使用相对链接)。
 - 请确保你所写的部分包含对项目的简单介绍，以及包含图片（最好是GIFs）的例子。

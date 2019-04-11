@@ -11,6 +11,7 @@
 
 - Use `###` headers for your sections.
 <!-- - Also use `###` for categories (these should group together relevant sections) and `####` for subcategories. -->
+- Capitalize the project name.
 - In the headers, append `![stars](https://img.shields.io/github/stars/:user/:repo.svg) ![last update](https://img.shields.io/github/last-commit/:user/:repo.svg)` to show the last update time and stars of the project.
 - Add a link to your section/category to the contents section (use relative links).
 - Make sure to include examples wherever possible (preferably GIFs) and brief introduction to the project.
