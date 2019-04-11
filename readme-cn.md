@@ -6,10 +6,22 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 ## 目录
 
 - [网站](#网站)
+  - [iou](#iou--)
 - [程序](#程序)
   - [Node Mail](#node-Mail--)
 
 ## 网站
+
+### iou ![stars](https://img.shields.io/github/stars/jeasonstudio/iou.svg) ![last commit](https://img.shields.io/github/last-commit/jeasonstudio/iou.svg)
+通过模拟打字机的输入，采用几种编程语言，展示一些内容，并记录时间。
+
+![iou.gif](media/iou.gif)
+
+或者手机扫描下面二维码预览:
+
+![iou-qrcode](media/iou.png)
+
+[更多...](https://github.com/jeasonstudio/iou)
 
 ## 程序
 ### Node Mail ![stars](https://img.shields.io/github/stars/Vincedream/NodeMail.svg) ![last commit](https://img.shields.io/github/last-commit/Vincedream/NodeMail.svg)
