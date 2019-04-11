@@ -18,7 +18,7 @@ This repo will about love, including programs about love, website about love, in
 
 This post teaches and inspires those who are interested creating a website for their beloved person. 
 
-![example](http://github.com/Yuandong-Fei/awesome-love_2/images/wuxia2001.png)
+![example](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love_2/master/images/wuxia2001.png)
 
 [Read more about...](https://github.com/wuxia2001/loveyue)
 
