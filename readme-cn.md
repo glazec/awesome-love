@@ -9,6 +9,7 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 - [程序](#程序)
   - [loveyue](#loveyue--)
   - [Node Mail](#node-Mail--)
+  - [Love-You](#Love-You--)
 
 ## 网站
 
@@ -27,6 +28,54 @@ Github上有各种各样的Awesome，也有各种各样自称为恋爱神器的�
 ![example](https://camo.githubusercontent.com/eb44a62a47273be4b9aef2e6bdb54c4d446ff680/687474703a2f2f626c6f677069632e76696e63652e78696e2f32433937313636332d344330322d344344442d384531332d3143373142383137304542342e706e67)
 
 [更多。。。](https://github.com/Vincedream/NodeMail)
+
+### Love-You ![stars](https://img.shields.io/github/stars/IonicaBizau/love-you.svg) ![last_comit](https://img.shields.io/github/last-commit/IonicaBizau/love-you.svg)
+多种语言的我爱你。浪漫不止一种方法～
+
+#### example
+```js
+const loveYou = require("love-you");
+
+console.log(loveYou.random());
+// Мин сағаа хынчам ‎
+
+console.log(loveYou.say("english"));
+// I love you
+
+console.log(loveYou.say("punjabi"));
+// ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ
+
+// Promise-compatible :)
+new Promise(function (answer) {
+    answer(loveYou.say("french"));
+}).then(function (yay) {
+    console.log(yay);
+    // Je t'aime
+});
+
+console.log(loveYou.list);
+// [ 'I suɔ mo',
+//   'Ek het jou lief',
+//   'Mo dow',
+//   ...
+//   'Kenkamken',
+//   'Mena tanda wena',
+//   'I love you' ]
+
+console.log(loveYou.i18n);
+// { adangme: 'I suɔ mo',
+//   afrikaans: 'Ek het jou lief',
+//   ...
+//   punjabi:
+//    { by_man: 'ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦਾ ਹਾਂ',
+//      by_woman: 'ਮੈਂ ਤੈਨੂੰ ਪਿਆਰ ਕਰਦੀ ਹਾਂ' },
+//   quechua: 'qanta munani',
+//   romanian: 'Te iubesc',
+//   ...
+//   english: 'I love you' }
+```
+
+[Read more about...](https://github.com/IonicaBizau/love-you)
 
 ## 开源许可
 
