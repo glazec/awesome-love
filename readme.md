@@ -8,7 +8,7 @@ This repo will about love, including programs about love, website about love, in
 - [Websites](#Websites)
 - [Programmes](#Programmes)
   - [Node Mail](#node-Mail--)
-  - [love-you](#love-you--)
+  - [Love-You](#love-you--)
  
 ## Websites
 
@@ -21,7 +21,7 @@ Use node to send a warm mail to your girlfriend everyday with scheduled. In the 
 
 [Read more about...](https://github.com/Vincedream/NodeMail)
 
-### love-you ![stars](https://img.shields.io/github/stars/IonicaBizau/love-you.svg) ![last_comit](https://img.shields.io/github/last-commit/IonicaBizau/love-you.svg)
+### Love-You ![stars](https://img.shields.io/github/stars/IonicaBizau/love-you.svg) ![last_comit](https://img.shields.io/github/last-commit/IonicaBizau/love-you.svg)
 "I love you" in different languages.
 
 #### example
