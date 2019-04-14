@@ -8,7 +8,7 @@ This repo will about love, including programs about love, website about love, in
 
 - [Websites](#Websites)
   <!-- - Demonstration -->
-    - [love](#love)
+    - [love](#love--)
     - [Loveyue](#Loveyue--)
 - [Programmes](#Programmes)
   - [Love-You](#love-you--)
@@ -20,7 +20,7 @@ This repo will about love, including programs about love, website about love, in
 
 This is a website based on the story between a couple. Really cute! 
 
-![example](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love/master/images/arunboy.png)
+![example](https://raw.githubusercontent.com/glazec/awesome-love/master/images/arunboy.png)
 
 [Read more about...](https://github.com/arunboy/love)
 
@@ -28,7 +28,7 @@ This is a website based on the story between a couple. Really cute!
 
 This post teaches and inspires those who are interested creating a website for their beloved person.
 
-![example](https://raw.githubusercontent.com/Yuandong-Fei/awesome-love/master/images/wuxia2001.png)
+![example](https://raw.githubusercontent.com/glazec/awesome-love/master/images/wuxia2001.png)
 
 [Read more about...](https://github.com/wuxia2001/loveyue)
 
