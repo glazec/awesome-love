@@ -14,7 +14,7 @@
 - Capitalize the project name.
 - In the headers, append `![stars](https://img.shields.io/github/stars/:user/:repo.svg) ![last update](https://img.shields.io/github/last-commit/:user/:repo.svg)` to show the last update time and stars of the project.
 - Add a link to your section/category to the contents section (use relative links).
-- Make sure to include examples wherever possible (preferably GIFs) and brief introduction to the project.
+- Make sure to include examples wherever possible (preferably GIFs which should put into /media) and brief introduction to the project.
 - For command-line examples, wrap your commands in a `bash` code block.
 - At the end of your section, add a `Read more about...` link. This should directly link to [Git's](http://git-scm.com/docs), [GitHub's](https://help.github.com), or the relevant documentation.
 - Make sure your grammar is correct and there is no typo.
