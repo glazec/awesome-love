@@ -20,7 +20,7 @@ Github 上有各种各样的 Awesome，也有各种各样自称为恋爱神器�
 
 这是一个理工男表白的网页，可以进行自定义修改。其中的每一张图片都是可编辑的。非常可爱QAQ，精致。
 
-![example](https://raw.githubusercontent.com/glazec/awesome-love/master/images/arunboy.png)
+![example](https://raw.githubusercontent.com/glazec/awesome-love/master/media/arunboy.png)
 
 [更多。。。](https://github.com/arunboy/love)
 
@@ -28,7 +28,7 @@ Github 上有各种各样的 Awesome，也有各种各样自称为恋爱神器�
 
 这是程序员表白系列中的网站表白，旨在让任何人都能使用并创建自己的表白网站给心爱的人看。 此波共有 8 个表白网站，可以任意修改和使用，源码已上传，演示网址如下。
 
-![示例](https://raw.githubusercontent.com/glazec/awesome-love/master/images/wuxia2001.png)
+![示例](https://raw.githubusercontent.com/glazec/awesome-love/master/media/wuxia2001.png)
 
 [更多。。。](https://github.com/wuxia2001/loveyue)
 
